@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MDBTq")(type "KiCad")(uri "${KIPRJMOD}/MDBTq.kicad_sym")(options "")(descr ""))
+  (lib (name "sht")(type "KiCad")(uri "${KIPRJMOD}/sht.kicad_sym")(options "")(descr ""))
+  (lib (name "bat")(type "KiCad")(uri "${KIPRJMOD}/bat.kicad_sym")(options "")(descr ""))
+  (lib (name "LED_n")(type "KiCad")(uri "${KIPRJMOD}/LED_n.kicad_sym")(options "")(descr ""))
+  (lib (name "sw_n")(type "KiCad")(uri "${KIPRJMOD}/sw_n.kicad_sym")(options "")(descr ""))
+  (lib (name "res_10k")(type "KiCad")(uri "${KIPRJMOD}/res_10k.kicad_sym")(options "")(descr ""))
+  (lib (name "cap_100nf")(type "KiCad")(uri "${KIPRJMOD}/cap_100nf.kicad_sym")(options "")(descr ""))
+  (lib (name "4_pin_header")(type "KiCad")(uri "${KIPRJMOD}/4_pin_header.kicad_sym")(options "")(descr ""))
+)
