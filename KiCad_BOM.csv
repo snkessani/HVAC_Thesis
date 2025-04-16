@@ -1,0 +1,12 @@
+Reference,Qty,Value,DNP,Footprint,Datasheet
+BT1,1,Battery_Cell,,bt_holder:BH-25C-1_ADM,~
+C1,1,100nF,,bt_holder:cap_100nf (2),~
+C2,1,10uF,,bt_holder:cap_10uf,~
+D1,1,LED,,bt_holder:LED_power,~
+J1,1,SWD,,Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD,http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf
+J2,1,VDD,,Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical,~
+J3,1,I2C,,Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical,~
+"R1,R2",2,10K,,bt_holder:res_10k,~
+R3,1,300,,bt_holder:res_10k,~
+U1,1,MDBT42Q-512K,,RF_Module:Raytac_MDBT42Q,https://www.raytac.com/download/index.php?index_id=27
+U2,1,SHT4x,,Sensor_Humidity:Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad,https://sensirion.com/media/documents/33FD6951/624C4357/Datasheet_SHT4x.pdf
